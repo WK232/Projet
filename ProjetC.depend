@@ -1,6 +1,10 @@
 # depslib dependency file v1.0
-1672094075 source:c:\users\kharr\onedrive\documents\programiz\c c++\projetc\projetc\main.c
+1672097974 source:c:\users\kharr\onedrive\documents\programiz\c c++\projetc\projetc\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
+	"Dataset.h"
+
+1672099073 c:\users\kharr\onedrive\documents\programiz\c c++\projetc\projetc\dataset.h
 	<string.h>
 
